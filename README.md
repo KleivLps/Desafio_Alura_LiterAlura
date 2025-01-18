@@ -3,7 +3,7 @@
 
 <h1 align="center">Bienvenido a LiterAlura - KleivLps </h1>
 
-##Índice
+## Índice
 
 *[Índice](#índice)
 
@@ -17,11 +17,11 @@
 
 *[Autor](#autor)
 
-##Introduccion : 
+## Introduccion : 
 
 **LiterAlura** es un deafio impuesto por Alura Latam y Oracle Next Education, consiste en una aplicacion realizada con Java y Spring Framework que permite la busqueda y consulta de un catalogo de autores y libros.
 
-##Descripcion del proyecto :
+## Descripcion del proyecto :
 
 La aplicacion realiza busquedas en una **API Externa,** de libros y autores, ademas de eso, tambien nos facilita el año de muerte y nacimiento, lenguaje de las obras y nombres y apellidos completos.
 
@@ -30,7 +30,7 @@ Utilizando la API de [Gutendex](https://gutendex.com/ "API para libros de domini
 Los resultados obtenidos, se almacenan en la base de datos apra las futura utilizacion, se filtran y muestran usando el menu de la aplicación y la salida de consola.
 
 
-##Características de la aplicación y demostración :
+## Características de la aplicación y demostración :
 
 <p>Al ejecutar la aplicación se inicia el menú principal en la consola, la cual da opcion a 5 diferentes opciones: .</p>
 
@@ -62,16 +62,15 @@ Los resultados obtenidos, se almacenan en la base de datos apra las futura utili
 
 ## Tecnologias usadas : 
 
-![JDK]({https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white}) 
-![Spring]({https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white}) 
-![PostgreSQL]({https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white}) 
-![Hibernate]({https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white}) 
-![Intellij]({https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white}) 
-
+[<img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width=115><br>] 
+[<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" width=115><br>]
+[<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" width=115><br>]
+[<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width=115><br>]
+[<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" width=115><br>]
 
 ## Autor
 
 | [<img src="https://avatars.githubusercontent.com/u/161541311?s=400&u=1254ee90a0ff38bc4b594b357999e691eaa5a87d&v=4" width=115><br><sub>Kleiver Chapoñan Milla</sub>](https://github.com/KleivLps) |  
 | :---: | 
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=115><br>](https://github.com/KleivLps)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=115><br>](https://www.linkedin.com/in/kleiver-engelbert-chapoñan-milla-129706176/)
