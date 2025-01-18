@@ -5,15 +5,15 @@
 
 ## Índice
 
-*[Índice](#índice)
+*[Índice](#Índice)
 
-*[Introduccion](#introduccion)
+*[Introduccion](#Introduccion)
 
-*[Descripción del proyecto](#descripción-del-proyecto)
+*[Descripción del proyecto](#Descripcion-del-proyecto)
 
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
+*[Tecnologias utilizadas](#tecnologías-utilizadas)
 
 *[Autor](#autor)
 
@@ -60,13 +60,13 @@ Los resultados obtenidos, se almacenan en la base de datos apra las futura utili
 ![opcion 0](https://github.com/user-attachments/assets/04c5ceb4-d160-4635-a27c-1d3a00c47b38)
 
 
-## Tecnologias usadas : 
+## Tecnologias utilizadas : 
 
-[<img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width=115><br>] 
-[<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" width=115><br>]
-[<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" width=115><br>]
-[<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width=115><br>]
-[<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" width=115><br>]
+<img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width=115>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" width=115>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" width=115>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width=115>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" width=115>
 
 ## Autor
 
